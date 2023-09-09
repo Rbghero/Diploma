@@ -1,7 +1,12 @@
  # Дипломный проект по профессии «Тестировщик»
+ [Задание.]()
  ## План автоматизации и отчетные документы по итогам тестирования:
 
-[1. План автоматизации](https://github.com/Rbghero/Diploma/blob/main/documentation/Plan.md)
+[1. План автоматизации.](https://github.com/Rbghero/Diploma/blob/main/documentation/Plan.md)
+
+[2. Отчет по итогам тестирования.](https://github.com/Rbghero/Diploma/blob/main/documentation/Report.md)
+
+[3. Отчет по итогам автоматизации.](https://github.com/Rbghero/Diploma/blob/main/documentation/Summary.md)
 
  ## Процедура запуска автотестов:
  ### MySQL

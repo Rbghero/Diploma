@@ -1,5 +1,5 @@
  # Дипломный проект по профессии «Тестировщик»
- [Задание.]()
+ [Задание.](https://github.com/Rbghero/Diploma/blob/main/documentation/Task.md)
  ## План автоматизации и отчетные документы по итогам тестирования:
 
 [1. План автоматизации.](https://github.com/Rbghero/Diploma/blob/main/documentation/Plan.md)
